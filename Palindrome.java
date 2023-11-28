@@ -1,11 +1,3 @@
-/*
- * Group:
- * Sjanrie Hendrikz 20230667
- * Ihtishaam Isaacs 20232354
- * Mornay Schoombie 20230775
- * Gareth Bekker 20230758
- */
-
 package com.mycompany.palindromesjanriehendrikz;
 
 import java.util.Scanner;
