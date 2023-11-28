@@ -1,8 +1,8 @@
-package com.mycompany.palindromesjanriehendrikz;
+package com.mycompany.palindromes;
 
 import java.util.Scanner;
 
-public class PalindromeSjanrieHendrikz {
+public class Palindrome {
 
     public static void main(String[] args) {
          Scanner input = new Scanner(System.in);
